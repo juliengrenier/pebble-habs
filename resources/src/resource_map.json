@@ -1,0 +1,16 @@
+
+{"friendlyVersion": "0.1",
+  "versionDefName": "APP_RESOURCES",
+  "media": [
+  {
+    "type": "png",
+    "defName": "IMAGE_BACKGROUND",
+    "file": "images/flag-nhl-montreal-canadiens_1_1.png"
+  },
+  {
+    "type": "png",
+    "defName": "IMAGE_MENU_ICON",
+    "file": "images/flag-nhl-montreal-canadiens_icon.png"
+  }
+  ]
+}
