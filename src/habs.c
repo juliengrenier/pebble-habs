@@ -20,7 +20,7 @@ void display_time(PblTm *time);
 
 void handle_deinit(AppContextRef ctx) {
   (void)ctx;
-  //bmp_deinit_container(&background_image_container);
+  bmp_deinit_container(&background_image_container);
 }
 
 void handle_init(AppContextRef ctx) {
